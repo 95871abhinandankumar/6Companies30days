@@ -1,5 +1,8 @@
 # 6Companies30days
 
+
+###################################################################################################################################################################################
+
 1.Given an array of strings, return all groups of strings that are anagrams. The groups must be created in order of their appearance in the original array. Look at the sample case for clarification.
 
 Input:
@@ -22,3 +25,5 @@ Expected Auxiliary Space: O(N*|S|), where |S| is the length of the strings.
 
 Constraints:
 1<=N<=100
+
+###################################################################################################################################################################################
