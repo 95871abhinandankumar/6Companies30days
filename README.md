@@ -1,5 +1,5 @@
 # 6Companies30days
-
+https://docs.google.com/document/d/1gArkit3S_KXNfl01XSE0HLqpLR2gbh2mJ8ftsxKVd24/edit
 
 ###################################################################################################################################################################################
 
@@ -43,3 +43,7 @@ Constraints:
 15.https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
 
 ###################################################################################################################################
+
+https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit
+
+
